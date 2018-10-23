@@ -34,4 +34,4 @@ Springboard projects are an Unhackathon alternative to the traditional hackathon
 Great! Sponsoring Unhackathon is a great way to promote your product or developer API or to recruit for interns and new grad positions. You'll show your commitment to diverse teams and real-world learning, while meeting some of the world's brightest hackers. Send an email to [sponsorship@unhackathon.org](mailto:sponsorship@unhackathon.org) and we'll be in touch shortly.
 
 # I have more questions!
-We have answers! Be sure to check out the [frequently asked questions](/faq/) page and then email us at [team@unhackathon.org](mailto:team@unhackathon.org)if you still need help. We'll get back to you as soon as possible.
+We have answers! Be sure to check out the [frequently asked questions](/faq.html) page and then email us at [team@unhackathon.org](mailto:team@unhackathon.org)if you still need help. We'll get back to you as soon as possible.
