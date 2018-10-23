@@ -18,11 +18,10 @@ Absolutely! We want to see college students from every background and skill leve
 Unhackathon 2016 is open to undergrads and, for the first time, high school students! You should be interested in building a technology-related project using coding, art, and hardware skills. You should not come to Unhackathon in search of others to do free work on your app idea, but if you'd like to give it a try coding it up yourself we'd be happy to help you out. You don't need a team to attend; we'll happily match you up with a team when you arrive. You are also welcome to work solo. If you're feeling stuck, try a Springboard Project!
 
 On the fence? Here are some facts from last year's event:
-<ul>
-  <li>Unhackathon was diverse - half of our hackers had never attended a hackathon before, and 20 percent were women. This year, the gender ratio so far is 50/50! </li>
-  <li>A number of attendees told us this was the "best" and/or "most welcoming" hackathon they've attended. Or that they learned more in a day at Unhackathon than they had in a semester of school!</li>
-  <li>One hacker arrived having never written a line of Python, but managed to achieve her goal of programming a simulation of a neuron. Another team created a game highlighting the hardships of being a single mother. All kinds of interdisciplinary hacks combined music, visual art, sports, and cognitive science with technology.</li>
-</ul>
+
+- Unhackathon was diverse - half of our hackers had never attended a hackathon before, and 20 percent were women. This year, the gender ratio so far is 50/50!
+- A number of attendees told us this was the "best" and/or "most welcoming" hackathon they've attended. Or that they learned more in a day at Unhackathon than they had in a semester of school!
+- One hacker arrived having never written a line of Python, but managed to achieve her goal of programming a simulation of a neuron. Another team created a game highlighting the hardships of being a single mother. All kinds of interdisciplinary hacks combined music, visual art, sports, and cognitive science with technology.
 
 # Our Goal: Go home feeling proud.
 Hackathons are great for bringing people together. Thousands of students arrive at hackathons each year, ready to learn and build. But demos are often mostly spectator events. Somewhere between the opening ceremonies and the final crunch, hackers drop out because they run into a problem they can't fix, they can't come up with a workable project idea, or they just burn out. It's our goal at Unhackathon to have every hacker demo if they want, and go home with a project they're proud of - no matter how small it is. Our Springboard projects are a great way to start a project you can expand on even after the hackathon. If you're on a team building something completely new, we've got your back. We'll have plenty of expert mentors in the fields that you're most interested in, and a special team to help you debug when crunch time gets close.
@@ -34,4 +33,4 @@ Springboard projects are an Unhackathon alternative to the traditional hackathon
 Great! Sponsoring Unhackathon is a great way to promote your product or developer API or to recruit for interns and new grad positions. You'll show your commitment to diverse teams and real-world learning, while meeting some of the world's brightest hackers. Send an email to [sponsorship@unhackathon.org](mailto:sponsorship@unhackathon.org) and we'll be in touch shortly.
 
 # I have more questions!
-We have answers! Be sure to check out the [frequently asked questions](/faq.html) page and then email us at [team@unhackathon.org](mailto:team@unhackathon.org)if you still need help. We'll get back to you as soon as possible.
+We have answers! Be sure to check out the [frequently asked questions](/faq.html) page and then email us at [team@unhackathon.org](mailto:team@unhackathon.org) if you still need help. We'll get back to you as soon as possible.
